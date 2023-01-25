@@ -3,7 +3,8 @@
 This is a Python script to fetch data from the Octopus Energy UK API for
 'Saving Sessions', where customers are paid for reducing their usage at
 times of peak demand.  It's intended to be a starting point for hooking into
-various load reduction techniques.
+various load reduction techniques.  Octopus say the data includes both past
+and future sessions.
 
 You still need to sign up to each Saving Session individually, but the API
 allows automatic detection of the start and end times of the session.
