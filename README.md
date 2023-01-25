@@ -41,6 +41,12 @@ $ python3 octopus-saving-sessions.py
 }
 ```
 
+## Credit
+
+Idea based on some code in:
+https://github.com/BottlecapDave/HomeAssistant-OctopusEnergy/blob/develop/custom_components/octopus_energy/api_client.py
+
+Apologies for my abuse of GraphQL.
 
 ## Licence
 
